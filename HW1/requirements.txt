@@ -1,0 +1,33 @@
+# Core dependencies
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+tqdm
+requests
+nltk
+
+# HuggingFace & Transformers
+transformers
+datasets
+huggingface_hub
+sentence-transformers
+
+# Visualization
+seaborn
+
+# Imbalanced data handling
+imbalanced-learn  # for SMOTE
+
+# XGBoost
+xgboost
+
+# Knowledge Graph / Wikidata support
+wikidata
+networkx
+SPARQLWrapper
+
+# Jupyter support (optional, for notebooks)
+jupyter
+notebook
