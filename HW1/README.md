@@ -38,7 +38,7 @@ pip install -r .\requirements.txt
 ```
 
 - `roBERTa-LARGE.ipynb`: Once the dependencies are installed, this notebook can be run without further modification.
-- `NO_LM.ipynb`: After installing the dependencies, it is important to comment out the following lines before running the notebook:
+- `NO_LM.ipynb`: After installing the dependencies, it is important to comment the following lines before running the notebook:
 ```python
 !pip install datasets
 !pip install wikidata
