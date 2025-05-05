@@ -11,3 +11,9 @@ This repository contains two projects developed for the *Multilingual Natural La
   - **Cultural Exclusive (C.E.)**: The item is known and used exclusively within a specific culture and is explicitly claimed by that culture (e.g., "pasta alla gricia", "xiao longbao").
 
 - **Homework 2**: *Work in Progress*
+
+## Authors
+The following contributors participated in the development of this project:
+- Luca Conti – conti.1702084@studenti.uniroma1.it  
+- Riccardo D'Aguanno – daguanno.2172315@studenti.uniroma1.it  
+- Daniele Sabatini – sabatini.1890300@studenti.uniroma1.it
